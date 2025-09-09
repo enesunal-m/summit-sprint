@@ -98,3 +98,13 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 .DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# TextMesh Pro - Generated files (can be regenerated)
+/[Aa]ssets/TextMesh?Pro/
+
+# Generated packages directory settings
+/[Pp]rojectSettings/Packages/
